@@ -11,5 +11,8 @@ Odgovori na vprašanja.
 
 l) V razdelku TIM1, pod Counter Settings, bi radi časovniku spremenili frekvenco na 1 kHz, zato moramo frekvenco ABP1 Timer Clock preskalirati v polju Prescaler (PSC – 16 bit value). Koliko znaša ta vrednost? _____16000_______.
 
+Slika vezave -->
 ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/Vaja3-ADC-trigger-timer-conversion-STM32F4/main/slika%20vezave.jpg)
+
+Slika mikroprocesorja -->
 ![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja3-ADC-trigger-timer-conversion-STM32F4/main/vaja%203%20pinout.PNG)
